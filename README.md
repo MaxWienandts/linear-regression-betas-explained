@@ -25,7 +25,7 @@ Key takeaway: A regression coefficient is only as valuable as your grasp of its 
 
 ---
 Max Wienandts
-• LinkedIn: https://www.linkedin.com/in/max-wienandts/
-• Medium: https://medium.com/@maxwienandts
-• GitHub: https://github.com/MaxWienandts
-• Buy me a coffee: https://www.paypal.com/donate/?hosted_button_id=2F444HZGJBNX6
+- LinkedIn: https://www.linkedin.com/in/max-wienandts/
+- Medium: https://medium.com/@maxwienandts
+- GitHub: https://github.com/MaxWienandts
+- Buy me a coffee: https://www.paypal.com/donate/?hosted_button_id=2F444HZGJBNX6
