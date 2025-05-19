@@ -21,7 +21,7 @@ Master these mechanics and you will:
 
 Key takeaway: A regression coefficient is only as valuable as your grasp of its scale, uncertainty, and context. Let’s make every β tell a story you can defend.
 
-📖 Medium Article: 
+📖 Medium Article: https://medium.com/@maxwienandts/more-than-just-a-slope-how-to-truly-understand-linear-regression-betas-eebab071bcd4
 
 ---
 Max Wienandts
